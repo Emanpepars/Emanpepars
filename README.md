@@ -1,34 +1,32 @@
-<div>
-    <div align=center>
-        <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
-    </div>
-   <h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
-Eman</a></h1>
-<h3 align="center">A Flutter developer from Egypt</h3>
-    <div align=center>
-        <a href="https://www.linkedin.com/in/eman-pe-pars-26293a220/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
-    </div>
-    <div align=left>
-        <br>
-        <p>
-            <strong>
-                I hold a degree in Computer Science with a specialization in Flutter development. My professional experience
-focuses on creating user-friendly mobile applications using Flutter. Passionate about staying updated with the
-latest trends, I bring expertise in building robust and scalable applications.<br><br>
-                I am passionate about learning Flutter, all Mobile App Technologies, Solid, Oop, Clean Architecture, Design Patterns, State management.<br><br>
-                Detailed-oriented, responsible, and committed engineer, with a get-it-done, on-time, and high-quality product spirit. Self and quick learner, self-motivated, and social.
-            </strong>
-        </p>
-      <br/>
+<div align="center">
+    <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
+</div>
 
-- 🤝 I’m available for freelancing.
+<h1 align="center">Hello there! 👋 I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="_blank">Eman</a></h1>
+<h3 align="center">Flutter Developer from Egypt</h3>
 
-- 📝 I regularly upload demos on [https://www.linkedin.com/in/eman-pe-pars-26293a220/](https://www.linkedin.com/in/eman-pe-pars-26293a220/)
+<div align="center">
+    <a href="https://www.linkedin.com/in/eman-pe-pars-26293a220/">
+        <img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" />
+    </a>
+</div>
 
-- 💬 Ask me about **Flutter**
-
-- 📫 How to reach me **emanpepars2@gmail.com**
-
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1tmoLIVVjBQgCH43bUJ3VUsfxAbatnPsz/view?usp=sharing" target="blank">Resume</a>
 <br/>
 
+<p align="justify">
+    <em>
+        Welcome to my corner! I hold a degree in Computer Science with a specialization in Flutter development. My professional journey revolves around crafting user-friendly mobile applications using Flutter. I'm deeply passionate about staying abreast of the latest trends, bringing expertise in building robust and scalable applications.
+        <br/><br/>
+        I thrive on learning Flutter, all Mobile App Technologies, Solid, Oop, Clean Architecture, Design Patterns, and State management.
+        <br/><br/>
+        Detail-oriented, responsible, and committed - I'm driven by a 'get-it-done' spirit, delivering high-quality products on time. I'm a self and quick learner, self-motivated, and social individual.
+    </em>
+</p>
+
+<br/>
+
+- 🤝 I’m available for freelancing.
+- 📝 I regularly upload demos on [LinkedIn](https://www.linkedin.com/in/eman-pe-pars-26293a220/)
+- 💬 Ask me about **Flutter**
+- 📫 Reach me at: **emanpepars2@gmail.com**
+- 📄 Check out my experiences: [Resume](https://drive.google.com/file/d/1tmoLIVVjBQgCH43bUJ3VUsfxAbatnPsz/view?usp=sharing)
