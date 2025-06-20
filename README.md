@@ -11,7 +11,7 @@
 
 <h2> Keep in Touch </h2>
 
-<p> <a href="mailto:emanpepars2@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://www.linkedin.com/in/eman-pe-pars-26293a220/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0077b5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.linkedin.com/in/eman-pe-pars-26293a220/overlay/1749921816562/single-media-viewer/?profileId=ACoAADeq4-oB_PaxAi4_JEfcNbo4kv_frWyXen0" target="_blank"><img alt="View My CV" src="https://img.shields.io/badge/View%20My%20CV-Click%20Here-blue?style=for-the-badge" /></a> <a href="http://wa.me/201120744802" target="_blank"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a> <p>
+<p> <a href="mailto:emanpepars2@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://www.linkedin.com/in/eman-pe-pars-26293a220/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0077b5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.linkedin.com/in/eman-pe-pars-26293a220/details/featured/1750450555710/single-media-viewer/?profileId=ACoAADeq4-oB_PaxAi4_JEfcNbo4kv_frWyXen0" target="_blank"><img alt="View My CV" src="https://img.shields.io/badge/View%20My%20CV-Click%20Here-blue?style=for-the-badge" /></a> <a href="http://wa.me/201120744802" target="_blank"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a> <p>
 
 <hr>
 
