@@ -17,12 +17,25 @@
 
 <h2> Samples from my projects </h2>
 
+### Soldout KSA App
+Customer e-commerce and auction app with secure payments, loyalty points, and push notifications for an enhanced shopping experience.<br/>
+<p> <a href="https://play.google.com/store/apps/details?id=com.soldout.sa1&pcampaignid=web_share" target="_blank"> <img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /> </a>  <a href="https://apps.apple.com/eg/app/soldout-ksa/id6449216198" target="_blank"> <img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /> </a> </p> <hr>
+
+### Soldout Vendor App
+Vendor dashboard app for managing a single online store, including products, orders, and customer reviews, with a simple and user-friendly interface.<br/>
+<p> <a href="https://apps.apple.com/eg/app/soldout-vendors-%D8%AA%D8%AC%D8%A7%D8%B1/id6517357260" target="_blank"> <img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /> </a> </p> <hr>
+
+### Markatty Vendor App
+
+Easy-to-use vendor e-commerce app that enables merchants to create and manage their online store, customize the store theme, manage products and categories, handle customer orders, view product reviews, and stay connected with customers.<br/>
+<p> <a href="https://play.google.com/store/apps/details?id=com.trademarks.markatty.admin&pcampaignid=web_share" target="_blank"> <img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /> </a> <a href="https://apps.apple.com/eg/app/markatty/id6446638962" target="_blank"> <img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /> </a> </p> <hr>
+
 
 ### Markatty App
 
  E-commerce platform enabling merchants to manage online stores. Download now for personalized care and convenience!<br/>
 
-<p><a href="https://play.google.com/store/apps/details?id=com.trademarks.markatty.store&pcampaignid=web_share" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/eg/app/markatty-store-%D9%85%D8%A7%D8%B1%D9%83%D8%A7%D8%AA%D9%8A/id6446638830" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+<p><a href="https://apps.apple.com/eg/app/markatty-store-%D9%85%D8%A7%D8%B1%D9%83%D8%A7%D8%AA%D9%8A/id6446638830" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
 
 <hr>
 
