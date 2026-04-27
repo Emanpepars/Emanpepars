@@ -19,11 +19,11 @@
 
 ## About
 
-Flutter Engineer based in **Dubai**, shipping production-grade mobile apps across **GCC, MENA, and US** markets — **13+ apps live on App Store and Google Play** spanning e-commerce, live auctions, real estate, fintech, and healthcare.
+Flutter Engineer based in **Dubai**, shipping production-grade mobile apps across **GCC, MENA, and US** markets - **13+ apps live on App Store and Google Play** spanning e-commerce, live auctions, real estate, fintech, and healthcare.
 
 Specialist in **real-time, performance-critical features**: Socket.IO live auctions, UAE PASS authentication, Apple Pay, and BNPL (Tabby, Tamara). I architect multi-flavor systems that ship multiple branded apps from a single codebase.
 
-> *Architecture and deployment are the same problem — I don't design systems that can't ship.*
+> *Architecture and deployment are the same problem - I don't design systems that can't ship.*
 
 
 ---
@@ -56,7 +56,7 @@ Specialist in **real-time, performance-critical features**: Socket.IO live aucti
 
 ## Featured Work
 
-### Soldout KSA — Live Auction Marketplace
+### Soldout KSA - Live Auction Marketplace
 > *Dual-app KSA marketplace · live bidding · Apple Pay · Tabby · Tamara*
 
 `BLoC/Cubit` `Socket.IO` `Apple Pay` `Tabby · Tamara` `Clean Architecture`
@@ -65,7 +65,7 @@ Specialist in **real-time, performance-critical features**: Socket.IO live aucti
 
 
 
-### AlMarwan — UAE Property Management
+### AlMarwan - UAE Property Management
 > *Real estate platform secured by UAE PASS · cheques · invoices · real-time updates*
 
 `UAE PASS` `Socket.IO` `Clean Architecture` `BLoC/Cubit` `Secure Storage`
@@ -74,7 +74,7 @@ Specialist in **real-time, performance-critical features**: Socket.IO live aucti
 
 
 
-### Markatty — Multi-Brand Storefront System
+### Markatty - Multi-Brand Storefront System
 > *One Flutter codebase powering multiple branded apps via Flavorizr*
 
 `Flavorizr` `Multi-flavor Arch` `BLoC + Provider` `Firebase Suite` `GetIt`
@@ -83,7 +83,7 @@ Specialist in **real-time, performance-critical features**: Socket.IO live aucti
 
 
 
-### La Mode — Fashion E-Commerce with 3D Viewer
+### La Mode - Fashion E-Commerce with 3D Viewer
 > *Interactive 3D product visualization · full shopping flow · open source*
 
 `3D Viewer (GLTF)` `BLoC + Provider` `Hive` `Lottie`
@@ -114,10 +114,10 @@ Specialist in **real-time, performance-critical features**: Socket.IO live aucti
 
 ## Experience
 
-**Soldout KSA** · *Riyadh, Saudi Arabia* — Flutter Developer · Dec 2025 — Present
-**NTG Clarity** · *Cairo, Egypt* — Flutter Developer · Jul 2024 — Nov 2025
-**GS For Applications** · *Cairo, Egypt* — Flutter Developer · Dec 2023 — Jun 2024
-**Revealsite** · *United States · Remote* — Flutter Developer · Oct 2022 — Nov 2023
+**Soldout KSA** · *Riyadh, Saudi Arabia* - Flutter Developer · Dec 2025 - Present
+**NTG Clarity** · *Cairo, Egypt* - Flutter Developer · Jul 2024 - Nov 2025
+**GS For Applications** · *Cairo, Egypt* - Flutter Developer · Dec 2023 - Jun 2024
+**Revealsite** · *United States · Remote* - Flutter Developer · Oct 2022 - Nov 2023
 
 > Full role descriptions and impact details on the **[Portfolio →](https://emanpepars.github.io/portfolio/#experience)**
 
@@ -129,17 +129,17 @@ Specialist in **real-time, performance-critical features**: Socket.IO live aucti
 
 ## Engineering Philosophy
 
-> *Consistent principles across every project — not shifting preferences.*
+> *Consistent principles across every project - not shifting preferences.*
 
 **Architecture First** · Clean Architecture with strict separation of Domain, Data, and Presentation. Business logic never leaks into UI.
 
 **State with Intent** · BLoC/Cubit for complex flows. Provider for simple UI state. Riverpod when scalable DI matters. One tool for everything is a mistake.
 
-**Real-Time as State** · Socket events are state transitions, not UI events — controlled side-effects in Domain ensure consistency under concurrent updates.
+**Real-Time as State** · Socket events are state transitions, not UI events - controlled side-effects in Domain ensure consistency under concurrent updates.
 
 **Type-Safe APIs** · Dio + Retrofit + code generation move runtime API failures to compile time. Backend changes never silently break production.
 
-**GCC-Ready Delivery** · UAE/Saudi production standards — government auth, BNPL, RTL-first UI, CI/CD ownership from build to store release.
+**GCC-Ready Delivery** · UAE/Saudi production standards - government auth, BNPL, RTL-first UI, CI/CD ownership from build to store release.
 
 
 
@@ -149,11 +149,11 @@ Specialist in **real-time, performance-critical features**: Socket.IO live aucti
 
 ## Background
 
-**BSc Computer Science · AI Specialisation** — Helwan University · 2019–2023 · GPA 3/4
+**BSc Computer Science · AI Specialisation** - Helwan University · 2019–2023 · GPA 3/4
 
-**Graduation Project · MetaPharaoh** — Immersive VR ancient Egypt on Oculus Quest 2. **[Featured in national press](https://www.cairo24.com/1806628)**.
+**Graduation Project · MetaPharaoh** - Immersive VR ancient Egypt on Oculus Quest 2. **[Featured in national press](https://www.cairo24.com/1806628)**.
 
-**Languages** — Arabic *(native)* · English *(professional)*
+**Languages** - Arabic *(native)* · English *(professional)*
 
 
 
