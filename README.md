@@ -1,95 +1,183 @@
 <div align="center">
-    <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
+
+<br>
+<a href="https://emanpepars.github.io/portfolio/">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=02569B&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Eman+Pepars;Flutter+Engineer+%C2%B7+Dubai%2C+UAE;13%2B+Production+Apps+Shipped;Clean+Architecture+%C2%B7+BLoC+%C2%B7+Socket.IO" alt="Typing SVG" />
+</a>
+
+
+
+*Scalable Mobile Apps · Clean Architecture · Performance · Production-Ready*
+
+**[ Portfolio ](https://emanpepars.github.io/portfolio/)** · **[ LinkedIn ](https://www.linkedin.com/in/emanpepars)** · **[ Email ](mailto:emanpepars2@gmail.com)** · **[ CV ](https://docs.google.com/document/d/1VxwU2GDtl4o8bXN5q3-tTgDNOwpd-_yi3pSbvTQKblw/edit?tab=t.0)**
+
+`Available for new roles`  ·  `Senior Flutter`  ·  `Remote & On-site`
+
 </div>
 
-<h2> Hi there, I'm Eman Pepars 👋 </h2>
+---
 
-- Software Engineer
-- Flutter Developer
+## About
 
-<hr>
+Flutter Engineer based in **Dubai**, shipping production-grade mobile apps across **GCC, MENA, and US** markets — **13+ apps live on App Store and Google Play** spanning e-commerce, live auctions, real estate, fintech, and healthcare.
 
-<h2> Keep in Touch </h2>
+Specialist in **real-time, performance-critical features**: Socket.IO live auctions, UAE PASS authentication, Apple Pay, and BNPL (Tabby, Tamara). I architect multi-flavor systems that ship multiple branded apps from a single codebase.
 
-<p> <a href="mailto:emanpepars2@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://www.linkedin.com/in/eman-pe-pars-26293a220/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0077b5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.linkedin.com/in/eman-pe-pars-26293a220/details/featured/1766749680257/single-media-viewer/?type=DOCUMENT&profileId=ACoAADeq4-oB_PaxAi4_JEfcNbo4kv_frWyXen0" target="_blank"><img alt="View My CV" src="https://img.shields.io/badge/View%20My%20CV-Click%20Here-blue?style=for-the-badge" /></a> <a href="http://wa.me/971585562001" target="_blank"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a> <p>
-
-<hr>
-
-<h2> Samples from my projects </h2>
-
-### Soldout KSA App
-Customer e-commerce and auction app with secure payments, loyalty points, and push notifications for an enhanced shopping experience.<br/>
-<p> <a href="https://play.google.com/store/apps/details?id=com.soldout.sa1&pcampaignid=web_share" target="_blank"> <img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /> </a>  <a href="https://apps.apple.com/eg/app/soldout-ksa/id6449216198" target="_blank"> <img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /> </a> </p> <hr>
-
-### Soldout Vendor App
-Vendor dashboard app for managing a single online store, including products, orders, and customer reviews, with a simple and user-friendly interface.<br/>
-<p> <a href="https://apps.apple.com/eg/app/soldout-vendors-%D8%AA%D8%AC%D8%A7%D8%B1/id6517357260" target="_blank"> <img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /> </a> </p> <hr>
-
-### Markatty Vendor App
-
-Easy-to-use vendor e-commerce app that enables merchants to create and manage their online store, customize the store theme, manage products and categories, handle customer orders, view product reviews, and stay connected with customers.<br/>
-<p> <a href="https://play.google.com/store/apps/details?id=com.trademarks.markatty.admin&pcampaignid=web_share" target="_blank"> <img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /> </a> <a href="https://apps.apple.com/eg/app/markatty/id6446638962" target="_blank"> <img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /> </a> </p> <hr>
+> *Architecture and deployment are the same problem — I don't design systems that can't ship.*
 
 
-### Markatty App
+---
 
- E-commerce platform enabling merchants to manage online stores. Download now for personalized care and convenience!<br/>
+## At a Glance
 
-<p><a href="https://apps.apple.com/eg/app/markatty-store-%D9%85%D8%A7%D8%B1%D9%83%D8%A7%D8%AA%D9%8A/id6446638830" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+<div align="center">
 
-<hr>
+|  |  |  |  |
+|:---:|:---:|:---:|:---:|
+| **13+** | **4** | **4** | **7+** |
+| Production Apps | Companies | Markets Served | Payment & Gov Integrations |
 
-### Beneshty App 
+|  |  |  |  |
+|:---:|:---:|:---:|:---:|
+| **5** | **100%** | **4+ yrs** | **1** |
+| Domains | RTL Support | Production Experience | Award-Winning Project |
 
- E-commerce app with integrated payments and clean architecture refactor. Download now for personalized care and convenience!<br/>
+</div>
 
-<p><a href="https://play.google.com/store/apps/details?id=com.BeNeshtyStore&pcampaignid=web_share" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/eg/app/beneshty/id1596605724" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
 
-<hr>
 
-### J&D Pharmacy App
+> **Full case studies, technical decisions, and the complete stack live on my [Portfolio →](https://emanpepars.github.io/portfolio/)**
 
-Experience trusted healthcare services at your fingertips with the <b>J&D Pharmacy</b> App. Manage prescriptions, access health news, explore medical equipment, and connect with pharmacy professionals—all in one place. Download now for personalized care and convenience!<br/>
 
-<p><a href="https://play.google.com/store/apps/details?id=com.revealsite.pharmacyjd" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/eg/app/j-d-pharmacy/id6476877757" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
 
-<hr>
+---
 
-### Medical Compounding Pharmacy App
 
-Transform your health journey with the <b>Medical Center Compounding Pharmacy</b> App. Refill, transfer prescriptions, book appointments, and stay updated on health news — all in one convenient platform. Simplify your health management today! Download now.<br/>
 
-<p><a href="https://play.google.com/store/apps/details?id=com.revealsite.medicalcenter" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/eg/app/medical-compounding-pharmacy/id6477877781" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+## Featured Work
 
-<hr>
+### Soldout KSA — Live Auction Marketplace
+> *Dual-app KSA marketplace · live bidding · Apple Pay · Tabby · Tamara*
 
-### Quick RX App
+`BLoC/Cubit` `Socket.IO` `Apple Pay` `Tabby · Tamara` `Clean Architecture`
 
-Ultimate digital solution with the <b>Quick Rx</b> App. User-friendly mobile application streamlining pharmacy services with features such as prescription refills, patient transfers, health news updates, appointment scheduling, and medication reminders to enhance health management..<br/>
+**[ Customer · Android ](https://play.google.com/store/apps/details?id=com.soldout.sa1)** · **[ Customer · iOS ](https://apps.apple.com/eg/app/soldout-ksa/id6449216198)** · **[ Vendor · iOS ](https://apps.apple.com/eg/app/soldout-vendors-%D8%AA%D8%AC%D8%A7%D8%B1/id6517357260)**
 
-<p><a href="https://play.google.com/store/apps/details?id=com.revealsite.quickrxapp&hl=en" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/ke/app/quick-rx/id6517353130" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
 
-<hr>
 
-### Holland Pharmacy App
+### AlMarwan — UAE Property Management
+> *Real estate platform secured by UAE PASS · cheques · invoices · real-time updates*
 
-Transform your health journey with the <b>Medical Center Compounding Pharmacy</b> App. Refill, transfer prescriptions, book appointments, and stay updated on health news — all in one convenient platform. Simplify your health management today! Download now.<br/>
+`UAE PASS` `Socket.IO` `Clean Architecture` `BLoC/Cubit` `Secure Storage`
 
-<p><a href="https://play.google.com/store/apps/details?id=com.reveal.holland" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/us/app/holland-pharmacy/id6739270980" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+**[ App Store ](https://apps.apple.com/eg/app/almarwan-developments/id6746422212)**
 
-<hr>
 
-### Almarwan Development App
 
-E-commerce app for cosmetics with modern UI and essential shopping features.<br/>
+### Markatty — Multi-Brand Storefront System
+> *One Flutter codebase powering multiple branded apps via Flavorizr*
 
-<h3>Comming Soon(under Development)</h3>
-  
-<hr>
+`Flavorizr` `Multi-flavor Arch` `BLoC + Provider` `Firebase Suite` `GetIt`
 
-### La Jolie
+**[ iOS Store ](https://apps.apple.com/eg/app/markatty-store-%D9%85%D8%A7%D8%B1%D9%83%D8%A7%D8%AA%D9%8A/id6446638830)** · **[ Vendor Android ](https://play.google.com/store/apps/details?id=com.trademarks.markatty.admin)**
 
-E-commerce app for cosmetics with modern UI and essential shopping features.<br/>
 
-<h3>Comming Soon(under Development)</h3>
 
+### La Mode — Fashion E-Commerce with 3D Viewer
+> *Interactive 3D product visualization · full shopping flow · open source*
+
+`3D Viewer (GLTF)` `BLoC + Provider` `Hive` `Lottie`
+
+**[ GitHub Repository ](https://github.com/Emanpepars/la-mode)**
+
+
+
+---
+
+
+
+## Tech Stack
+
+`Flutter` `Dart` `Clean Architecture` `BLoC` `Cubit` `Provider` `Riverpod` `GetX`
+`Socket.IO` `Dio` `Retrofit` `REST APIs` `WebSockets`
+`Hive` `Secure Storage` `Firestore` `Firebase Suite` `FCM` `Crashlytics`
+`UAE PASS` `Apple Pay` `Tabby` `Tamara` `Google Pay` `PayTabs` `AppsFlyer`
+`Flavorizr` `Multi-flavor Arch` `GetIt` `ScreenUtil` `easy_localization`
+`RTL / Arabic` `Lottie` `3D Viewer` `Figma` `Unit Testing`
+`App Store Connect` `Play Console` `CI/CD` `Fastlane` `Git` `Postman` `Jira`
+
+
+
+---
+
+
+
+## Experience
+
+**Soldout KSA** · *Riyadh, Saudi Arabia* — Flutter Developer · Dec 2025 — Present
+**NTG Clarity** · *Cairo, Egypt* — Flutter Developer · Jul 2024 — Nov 2025
+**GS For Applications** · *Cairo, Egypt* — Flutter Developer · Dec 2023 — Jun 2024
+**Revealsite** · *United States · Remote* — Flutter Developer · Oct 2022 — Nov 2023
+
+> Full role descriptions and impact details on the **[Portfolio →](https://emanpepars.github.io/portfolio/#experience)**
+
+
+
+---
+
+
+
+## Engineering Philosophy
+
+> *Consistent principles across every project — not shifting preferences.*
+
+**Architecture First** · Clean Architecture with strict separation of Domain, Data, and Presentation. Business logic never leaks into UI.
+
+**State with Intent** · BLoC/Cubit for complex flows. Provider for simple UI state. Riverpod when scalable DI matters. One tool for everything is a mistake.
+
+**Real-Time as State** · Socket events are state transitions, not UI events — controlled side-effects in Domain ensure consistency under concurrent updates.
+
+**Type-Safe APIs** · Dio + Retrofit + code generation move runtime API failures to compile time. Backend changes never silently break production.
+
+**GCC-Ready Delivery** · UAE/Saudi production standards — government auth, BNPL, RTL-first UI, CI/CD ownership from build to store release.
+
+
+
+---
+
+
+
+## Background
+
+**BSc Computer Science · AI Specialisation** — Cairo University · 2019–2023 · GPA 3/4
+
+**Graduation Project · MetaPharaoh** — Immersive VR ancient Egypt on Oculus Quest 2. **[Featured in national press](https://www.cairo24.com/1806628)**.
+
+**Languages** — Arabic *(native)* · English *(professional)*
+
+
+
+---
+
+
+
+<div align="center">
+
+## Let's build something real.
+
+*Open to senior Flutter roles, GCC-focused product teams, and interesting technical problems.*
+*I respond within 24 hours.*
+
+
+
+**[ emanpepars2@gmail.com ](mailto:emanpepars2@gmail.com)** · **+971 58 556 2001** · **Dubai, UAE**
+
+
+
+**[ Portfolio ](https://emanpepars.github.io/portfolio/)**  ·  **[ LinkedIn ](https://www.linkedin.com/in/emanpepars)**  ·  **[ View CV ](https://docs.google.com/document/d/1VxwU2GDtl4o8bXN5q3-tTgDNOwpd-_yi3pSbvTQKblw/edit?tab=t.0)**
+
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=02569B&height=100&section=footer&reversal=true" width="100%" />
+
+</div>
