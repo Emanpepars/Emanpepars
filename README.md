@@ -149,7 +149,7 @@ Specialist in **real-time, performance-critical features**: Socket.IO live aucti
 
 ## Background
 
-**BSc Computer Science · AI Specialisation** — Cairo University · 2019–2023 · GPA 3/4
+**BSc Computer Science · AI Specialisation** — Helwan University · 2019–2023 · GPA 3/4
 
 **Graduation Project · MetaPharaoh** — Immersive VR ancient Egypt on Oculus Quest 2. **[Featured in national press](https://www.cairo24.com/1806628)**.
 
